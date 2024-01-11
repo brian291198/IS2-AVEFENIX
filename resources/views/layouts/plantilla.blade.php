@@ -27,6 +27,7 @@
 </head>
 <body class="hold-transition sidebar-mini">
   <!-- BORRAR COMENTARIO -->
+  <!-- primer cambio en subsistema mantenimiento-->
 <!-- Site wrapper -->
 <div class="wrapper">
   <!-- Navbar -->
